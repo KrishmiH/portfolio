@@ -1,0 +1,117 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "krishmihanz@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:krishmihanz@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+94 761643145",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+94761643145"
+      },
+      {
+        "type": "location",
+        "label": "Malabe, Sri Lanka",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "#"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "github",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://github.com/KrishmiH"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://linkedin.com/in/krishmihansara"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "BSc (Hons) IT - Software Engineering",
+        "description": "Sri Lanka Institute of Information Technology (SLIIT), Malabe. Specializing in Software Engineering with focus on full-stack development, mobile applications, and modern web technologies. (2022 - Present)"
+      },
+      {
+        "title": "G.C.E Advanced Level - Technology Stream",
+        "description": "Mahinda Rajapaksha College, Matara. Completed Advanced Level examination in Technology Stream. (2021)"
+      },
+      {
+        "title": "Diploma in ICT & English",
+        "description": "ESOFT Metro Campus. Completed Diploma in Information & Communication Technology and Diploma in English Language and Literature/Letters."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React.js",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Node.js",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "MongoDB",
+        "icon": "/images/home/education-skill/sketch-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": ".NET & C#",
+        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "React Native",
+        "icon": "/images/home/education-skill/framer-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/invision-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "GitHub",
+        "href": "https://github.com/KrishmiH"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://linkedin.com/in/krishmihansara"
+      },
+      {
+        "title": "Email",
+        "href": "mailto:krishmihanz@gmail.com"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "krishmihanz@gmail.com",
+        "link": "mailto:krishmihanz@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+94 761643145",
+        "link": "tel:+94761643145"
+      }
+    ]
+  }
+}

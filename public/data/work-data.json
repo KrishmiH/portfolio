@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.jpg",
+      "title": "EV Charging Station Booking System",
+      "client": "Academic Project",
+      "slug": "ev-charging-station"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "VirtuWear - Fashion E-Commerce",
+      "client": "MERN Stack Project",
+      "slug": "virtuwear-ecommerce"
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "Microservices Food Delivery System",
+      "client": "Academic Project",
+      "slug": "food-delivery-system"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "CareHire Mobile Application",
+      "client": "React Native Project",
+      "slug": "carehire-app"
+    },
+    {
+      "image": "/images/work/work-img-5.jpg",
+      "title": "Pet Rescue & Adoption System",
+      "client": "Full Stack MERN",
+      "slug": "pet-rescue-system"
+    },
+    {
+      "image": "/images/work/work-img-6.jpg",
+      "title": "Task Management Mobile App",
+      "client": "Android Kotlin",
+      "slug": "task-management-app"
+    }
+  ]
+}
