@@ -9,9 +9,9 @@
       },
       {
         "type": "phone",
-        "label": "+94 761643145",
+        "label": "DM",
         "icon": "/images/icon/call-icon.svg",
-        "link": "tel:+94761643145"
+        "link": "tel:"
       },
       {
         "type": "location",
@@ -124,8 +124,8 @@
       },
       {
         "type": "phone",
-        "label": "+94 761643145",
-        "link": "tel:+94761643145"
+        "label": "DM",
+        "link": "tel:"
       }
     ]
   }
