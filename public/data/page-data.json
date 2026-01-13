@@ -56,32 +56,47 @@
     "skills": [
       {
         "name": "React.js",
-        "icon": "/images/home/education-skill/figma-icon.svg",
+        "icon": "/images/home/education-skill/react.png",
         "rating": 5
       },
       {
         "name": "Node.js",
-        "icon": "/images/home/education-skill/photoshop-icon.svg",
-        "rating": 5
-      },
-      {
-        "name": "MongoDB",
-        "icon": "/images/home/education-skill/sketch-icon.svg",
+        "icon": "/images/home/education-skill/node.png",
         "rating": 4
       },
       {
+        "name": "MongoDB",
+        "icon": "/images/home/education-skill/mongodb.png",
+        "rating": 4
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/home/education-skill/javascript.png",
+        "rating": 5
+      },
+      {
         "name": ".NET & C#",
-        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "icon": "/images/home/education-skill/dotnet.png",
         "rating": 4
       },
       {
         "name": "React Native",
-        "icon": "/images/home/education-skill/framer-icon.svg",
-        "rating": 5
+        "icon": "/images/home/education-skill/reactnative.png",
+        "rating": 3
+      },
+      {
+        "name": "SQL",
+        "icon": "/images/home/education-skill/sql.png",
+        "rating": 3
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python.png",
+        "rating": 3
       },
       {
         "name": "Figma",
-        "icon": "/images/home/education-skill/invision-icon.svg",
+        "icon": "/images/home/education-skill/figma.png",
         "rating": 4
       }
     ]

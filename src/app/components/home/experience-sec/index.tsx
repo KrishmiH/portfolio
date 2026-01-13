@@ -6,7 +6,7 @@ const ExperienceSec = () => {
             year: "Jun 2025 - Dec 2025",
             title: "Software Engineer - Intern",
             company: "Gamage Recruiters (Pvt) Ltd",
-            type: "Full-time | Onsite",
+            type: "Full-time | Remote",
             description: "Contributed to web-based enterprise systems (Rent a Car, ATS, EMS), implemented authentication and RBAC, enhanced modules for scalability, and collaborated via Git/GitHub on PRs and merges."
         },
     ];
