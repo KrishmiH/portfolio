@@ -5,42 +5,85 @@
       "title": "Rent a Car Management System",
       "client": "Full Stack Project",
       "slug": "rent-a-car",
-      "link": "https://rent-a-car-project-two.vercel.app/"
+      "link": "https://rent-a-car-project-two.vercel.app/",
+      "description": "A comprehensive car rental management system built with modern web technologies. Features include vehicle booking, real-time availability tracking, user authentication, payment integration, and admin dashboard for fleet management.",
+      "technologies": ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
+      "images": [
+        "/images/gallery/rent-a-car/1.jpg",
+        "/images/gallery/rent-a-car/2.jpg",
+        "/images/gallery/rent-a-car/3.jpg",
+        "/images/gallery/rent-a-car/4.jpg"
+      ]
     },
     {
       "image": "/images/work/work-img-1.jpg",
       "title": "EV Charging Station Booking System",
       "client": "Academic Project",
       "slug": "ev-charging-station",
-      "link": "#"
+      "link": "#",
+      "description": "An innovative platform for electric vehicle owners to locate and book charging stations. Includes real-time station availability, booking management, payment processing, and station operator dashboard.",
+      "technologies": ["React", "Firebase", "Google Maps API", "Material-UI"],
+      "images": [
+        "/images/gallery/ev-charging-station/1.jpg",
+        "/images/gallery/ev-charging-station/2.jpg",
+        "/images/gallery/ev-charging-station/3.jpg",
+        "/images/gallery/ev-charging-station/4.jpg"
+      ]
     },
     {
       "image": "/images/work/work-img-2.jpg",
       "title": "VirtuWear - Fashion E-Commerce",
       "client": "MERN Stack Project",
       "slug": "virtuwear-ecommerce",
-      "link": "#"
+      "link": "#",
+      "description": "A full-featured e-commerce platform for fashion retail with virtual try-on capabilities. Includes product catalog, shopping cart, order management, user reviews, and secure payment gateway integration.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js", "Stripe"],
+      "images": [
+        "/images/gallery/virtuwear-ecommerce/1.jpg",
+        "/images/gallery/virtuwear-ecommerce/2.jpg"
+      ]
     },
     {
       "image": "/images/work/work-img-3.jpg",
       "title": "Microservices Food Delivery System",
       "client": "Academic Project",
       "slug": "food-delivery-system",
-      "link": "#"
+      "link": "#",
+      "description": "A scalable food delivery platform built with microservices architecture. Features include restaurant management, order tracking, delivery routing, real-time notifications, and multi-payment options.",
+      "technologies": ["Microservices", "Docker", "React", "Node.js", "PostgreSQL"],
+      "images": [
+        "/images/gallery/food-delivery-system/1.jpg"
+      ]
     },
     {
       "image": "/images/work/work-img-4.jpg",
       "title": "CareHire Mobile Application",
       "client": "React Native Project",
       "slug": "carehire-app",
-      "link": "#"
+      "link": "#",
+      "description": "A mobile healthcare staffing solution connecting healthcare professionals with facilities. Features include profile management, shift scheduling, in-app messaging, credential verification, and payroll integration.",
+      "technologies": ["React Native", "Firebase", "Redux", "Node.js"],
+      "images": [
+        "/images/gallery/carehire-app/1.jpg",
+        "/images/gallery/carehire-app/2.jpg",
+        "/images/gallery/carehire-app/3.jpg",
+        "/images/gallery/carehire-app/4.jpg"
+      ]
     },
     {
       "image": "/images/work/work-img-5.jpg",
       "title": "Pet Rescue & Adoption System",
       "client": "Full Stack MERN",
       "slug": "pet-rescue-system",
-      "link": "#"
+      "link": "#",
+      "description": "A compassionate platform connecting rescued pets with loving homes. Includes pet profiles, adoption applications, rescue organization management, donation processing, and success story showcase.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js", "AWS S3"],
+      "images": [
+        "/images/gallery/pet-rescue-system/1.jpg",
+        "/images/gallery/pet-rescue-system/2.jpg",
+        "/images/gallery/pet-rescue-system/3.jpg",
+        "/images/gallery/pet-rescue-system/4.jpg"
+      ]
     }
   ]
 }

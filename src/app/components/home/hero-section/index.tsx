@@ -20,10 +20,10 @@ const index = () => {
                   />
                 </div>
               </div>
-              <h3>Software Engineer</h3>
+              <h3>Software Engineer & UI/UX Designer</h3>
             </div>
             <p className="text-secondary font-normal max-w-md xl:max-w-xl">
-              Passionate Software Engineering undergraduate specializing in full-stack development, mobile applications, and modern web technologies. Experienced in MERN stack, React Native, .NET, and cloud deployments.
+              Passionate Software Engineering undergraduate specializing in full-stack development, mobile applications, modern web technologies, and user-centered design. Experienced in MERN stack, React Native, .NET, cloud deployments, and creating intuitive UI/UX solutions.
             </p>
           </div>
           <Image
